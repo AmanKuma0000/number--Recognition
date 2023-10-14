@@ -1,2 +1,2 @@
-# number--Recognition
+# number--recognition
 data science project
